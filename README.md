@@ -10,6 +10,7 @@
 * [2018 ICML] JK-Nets: **Representation Learning on Graphs with Jumping Knowledge Networks**. [[PDF](https://arxiv.org/pdf/1806.03536.pdf)]
 * [2019 ICLR] GIN: **How Powerful are Graph Neural Networks?** [[PDF](https://arxiv.org/pdf/1810.00826.pdf)]
 * [2019 ICML] SGC: **Simplifying Graph Convolutional Networks**. [[PDF](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)]
+* [2019 ICCV] **DeepGCNs: Can GCNs Go as Deep as CNNs?** [[PDF](https://arxiv.org/pdf/1904.03751.pdf)]
 * [2020 ICML] GCNII: **Simple and Deep Graph Convolutional Networks**. [[PDF](https://arxiv.org/pdf/2007.02133.pdf)]
 
 #### Survey
