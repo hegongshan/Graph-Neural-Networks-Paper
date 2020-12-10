@@ -19,5 +19,6 @@
 
 #### Survey
 
+* [2019] **Graph Neural Networks: A Review of Methods and Applications**. [[PDF](https://arxiv.org/pdf/1812.08434.pdf)]
 * [2019 TNNLS] **A Comprehensive Survey on Graph Neural Networks**. [[PDF](https://arxiv.org/pdf/1901.00596.pdf)]
 
