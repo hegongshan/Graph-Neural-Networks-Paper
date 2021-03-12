@@ -12,6 +12,7 @@
 * [2018 ICLR] GAT: **Graph Attention Networks**. [[PDF](https://openreview.net/pdf?id=rJXMpikCZ)]
 * [2018 ICML] JK-Nets: **Representation Learning on Graphs with Jumping Knowledge Networks**. [[PDF](https://arxiv.org/pdf/1806.03536.pdf)]
 * [2019 ICLR] GIN: **How Powerful are Graph Neural Networks?** [[PDF](https://arxiv.org/pdf/1810.00826.pdf)]
+* [2019 ICLR] APPNP: **Predict then Propagate: Graph Neural Networks meet Personalized PageRank**. [[PDF](https://openreview.net/pdf?id=H1gL-2A9Ym)]
 * [2019 WWW] HAN: **Heterogeneous Graph Attention Network**. [[PDF](https://arxiv.org/pdf/1903.07293.pdf)]
 * [2019 ICML] SGC: **Simplifying Graph Convolutional Networks**. [[PDF](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)]
 * [2019 ICCV] **DeepGCNs: Can GCNs Go as Deep as CNNs?** [[PDF](https://arxiv.org/pdf/1904.03751.pdf)]
