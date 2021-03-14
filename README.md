@@ -18,6 +18,7 @@
 * [2019 ICCV] **DeepGCNs: Can GCNs Go as Deep as CNNs?** [[PDF](https://arxiv.org/pdf/1904.03751.pdf)]
 * [2020 ICML] GCNII: **Simple and Deep Graph Convolutional Networks**. [[PDF](https://arxiv.org/pdf/2007.02133.pdf)]
 * [2020 ICLR] **Geom-GCN: Geometric Graph Convolutional Networks**. [[PDF](https://openreview.net/pdf?id=S1e2agrFvS)]
+* [2020 ICLR] **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification**. [[PDF](https://openreview.net/pdf?id=Hkx1qkrKPr)]
 
 #### Sampling-based
 
