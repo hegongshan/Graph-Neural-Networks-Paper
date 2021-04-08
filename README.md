@@ -19,6 +19,7 @@
 * [2020 ICML] GCNII: **Simple and Deep Graph Convolutional Networks**. [[PDF](https://arxiv.org/pdf/2007.02133.pdf)]
 * [2020 ICLR] **Geom-GCN: Geometric Graph Convolutional Networks**. [[PDF](https://openreview.net/pdf?id=S1e2agrFvS)]
 * [2020 ICLR] **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification**. [[PDF](https://openreview.net/pdf?id=Hkx1qkrKPr)]
+* [2021 ICLR] SuperGAT: **How To Find Your Friendly Neighborhood: Graph Attention Design With Self-Supervision**. [[PDF](https://openreview.net/pdf?id=Wi5KUNlqWty)]
 
 #### Sampling-based
 
